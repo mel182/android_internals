@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Android(Internals"
 include(":app")
+include(":processdeath")
